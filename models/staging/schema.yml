@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: staging
+    database: taxi-rides-ny-429619
+    schema: ny_taxi
+
+    tables:
+      - name: yellow_trip_data_partitoned_2019_2020
+      - name: green_trip_data_partitoned_clustered_2022
