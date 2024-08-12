@@ -6,5 +6,5 @@ sources:
     schema: ny_taxi
 
     tables:
-      - name: yellow_trip_data_partitoned_2019_2020
-      - name: green_trip_data_partitoned_clustered_2022
+      - name: yellow_2019_2020
+      - name: green_2019_2020
